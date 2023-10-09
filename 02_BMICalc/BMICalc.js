@@ -22,8 +22,10 @@ form.addEventListener('submit', (e) => {
 
     } else if (bmi >= 18.6 && bmi <= 24.9) {
       results.innerHTML = `<span>${bmi}, Normal weight.</span>`
-    } else {
+    } else if (bmi >= 24.9) {
       results.innerHTML = `<span>${bmi}, OverWeight</span>`
+    } else {
+      results.innerHTML = `${bmi}Please insert the valid input.`
     }
 
   }
