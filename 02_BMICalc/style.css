@@ -4,12 +4,21 @@
   color: white;
   width: 575px;
   height: 825px;
+  text-align: center;
+  margin: 10px 10px;
 }
+
+body {
+  background-color: #050A30;
+  box-sizing: border-box;
+
+}
+
 
 button {
   width: 150px;
   height: 25px;
-  margin-left: 5%;
+  margin-left: 10%;
   margin: 5px;
   text-decoration: none;
   border-radius: 8px;
@@ -17,4 +26,5 @@ button {
   background-color: gray;
   color: white;
   font-size: auto;
+
 }
