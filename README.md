@@ -5,4 +5,6 @@ In this project, started from basic to some complex level which I learnt from Hi
 * Project Two - BMI Generator
 * Project Three - Digital Clock
 * Project Four - Guess the number
+* Project Five - Keyboard magic
+* Project Six - Background color changer
   
