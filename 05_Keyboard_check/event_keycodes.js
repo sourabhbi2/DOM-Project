@@ -6,7 +6,7 @@ window.addEventListener('keydown', (e) =>{
   <tr>
   <th>Key</th>
   <th>Keycode</th>
-  <th>code</th>
+  <th>Code</th>
   </tr>
   <tr>
   <td>${e.key === ' ' ? 'Sapce' : e.key}</td>
