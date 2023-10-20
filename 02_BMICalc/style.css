@@ -4,14 +4,18 @@
   color: white;
   width: 575px;
   height: 825px;
-  text-align: center;
+  /* text-align: center; */
   margin: 10px 10px;
 
 }
 
+* {
+  text-align: center;
+}
+
 body {
   background-color: #050A30;
-
+  margin: auto;
 }
 
 
@@ -26,5 +30,6 @@ button {
   background-color: gray;
   color: white;
   font-size: auto;
+  display: inline-block;
 
 }
